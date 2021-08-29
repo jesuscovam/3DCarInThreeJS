@@ -1,8 +1,7 @@
 {
   "name": "three",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "dist/index.html",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
